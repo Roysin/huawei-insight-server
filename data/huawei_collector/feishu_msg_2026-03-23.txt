@@ -1,0 +1,406 @@
+📱 **华为游戏性能日报 - 2026-03-23**
+
+━━━━━━━━━━━━━━━━━━
+📊 新增: 0 | 更新: 0
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为开发者联盟**
+
+🎮 **Graphics Accelerate Kit**
+解决游戏卡顿/掉帧/发热问题
+
+• 详细内容请查看原文档
+
+🔗 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/graphics-accelerate-introduction
+
+🚀 **XEngine Kit**
+马良GPU性能提升方案
+
+• 详细内容请查看原文档
+
+🔗 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/xengine-kit-introduction
+
+👤 **Game Service Kit**
+游戏基础能力建设
+
+• 详细内容请查看原文档
+
+🔗 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/gameservice-introduction
+
+🔧 **HiSmartPerf**
+跨平台游戏性能测试分析
+
+• 详细内容请查看原文档
+
+🔗 https://developer.huawei.com/consumer/cn/doc/AppGallery-connect-Guides/smartperf-tool-overview
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **HMS Core服务**
+
+📦 **HMS Core图形引擎服务**
+Scene Kit开发文档
+
+• 查看更新日志了解最新版本
+
+🔗 https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/dev-process-0000001054326746
+
+📦 **HMS Core游戏服务**
+Game Service开发文档
+
+• 查看更新日志了解最新版本
+
+🔗 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/gameservice-introduction
+
+📦 **HMS Core图形计算服务**
+CG Kit开发文档
+
+• 查看更新日志了解最新版本
+
+🔗 https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050197938
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为专利信息**
+
+📜 **华为创新与知识产权**
+华为知识产权主页（15万件+有效授权专利）
+
+• 查看华为最新专利技术公开信息
+
+🔗 https://www.huawei.com/cn/ipr
+
+📜 **华为专利许可项目**
+手机/Wi-Fi/物联网专利许可
+
+• 查看华为最新专利技术公开信息
+
+🔗 https://www.huawei.com/cn/ipr/license/mobile-handset
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **图形标准组织**
+
+📐 **Vulkan标准更新**
+Vulkan图形API最新规范与扩展
+
+• 查看最新Vulkan标准更新规范更新
+
+🔗 https://www.khronos.org/vulkan/
+
+📐 **OpenGL ES标准**
+OpenGL ES移动图形标准
+
+• 查看最新OpenGL ES标准规范更新
+
+🔗 https://www.khronos.org/opengles/
+
+📐 **OpenGL扩展支持**
+华为OpenGL ES扩展支持列表
+
+• 查看最新OpenGL扩展支持规范更新
+
+🔗 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/opengles-extensions
+
+📐 **OpenXR标准**
+XR/VR/AR开放标准
+
+• 查看最新OpenXR标准规范更新
+
+🔗 https://www.khronos.org/openxr/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为开发者论坛**
+
+💬 **开发者论坛热帖**
+华为开发者游戏/图形技术讨论
+
+• 查看论坛最新技术讨论
+
+🔗 https://developer.huawei.com/consumer/cn/forum/block/1018317060917936456
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为云游戏解决方案**
+
+☁️ **华为云游戏服务器**
+云游戏/云渲染解决方案
+
+• 查看云游戏解决方案详情
+
+🔗 https://www.huaweicloud.com/solution/cloudgame/
+
+☁️ **云游戏开发文档**
+云游戏接入与开发指南
+
+• 查看云游戏解决方案详情
+
+🔗 https://support.huaweicloud.com/usermanual-cloudgame/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为开源镜像站**
+
+📂 **开源镜像站**
+游戏引擎/图形库开源镜像
+
+• 华为开源镜像站资源更新
+
+🔗 https://mirrors.huaweicloud.com/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为消费者BG**
+
+📱 **消费者BG新闻**
+华为产品游戏性能相关新闻
+
+• 查看华为消费者业务最新动态
+
+🔗 https://consumer.huawei.com/cn/press/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **鸿蒙开发者社区**
+
+🔷 **鸿蒙游戏开发**
+HarmonyOS游戏开发官方文档
+
+• 查看鸿蒙游戏开发最新资源
+
+🔗 https://developer.harmonyos.com/cn/develop/games
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **陀螺研究院**
+
+🌀 **行业研究报告**
+游戏行业深度分析报告
+
+• 查看游戏行业研究报告
+
+🔗 https://www.tuoluo.cn/report
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Unity中国-华为**
+
+🎮 **Unity鸿蒙适配**
+Unity对HarmonyOS的官方支持
+
+• 查看Unity华为适配文档
+
+🔗 https://docs.unity.cn/cn/tuanjiemanual/Manual/openharmony.html
+
+🎮 **Unity华为优化文档**
+Unity移动端性能优化指南
+
+• 查看Unity华为适配文档
+
+🔗 https://docs.unity3d.com/cn/current/Manual/android-optimization.html
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Unreal Engine-华为**
+
+🎬 **UE5安卓开发**
+UE5安卓平台开发指南
+
+• 查看UE5移动端开发文档
+
+🔗 https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-unreal-engine-projects-for-android-development
+
+🎬 **UE5 Vulkan支持**
+UE5 Vulkan渲染器
+
+• 查看UE5移动端开发文档
+
+🔗 https://dev.epicgames.com/documentation/en-us/unreal-engine/vulkan-mobile-renderer-in-unreal-engine
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Cocos鸿蒙版**
+
+🌟 **Cocos鸿蒙支持**
+Cocos Creator发布鸿蒙应用
+
+• 查看Cocos鸿蒙发布指南
+
+🔗 https://docs.cocos.com/creator/manual/zh/editor/publish/publish-huawei-ohos.html
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **高通Snapdragon**
+
+🔺 **高通游戏方案**
+竞品技术参考-高通骁龙移动平台
+
+• 查看高通游戏技术方案
+
+🔗 https://www.qualcomm.com/snapdragon
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **联发科天玑游戏引擎**
+
+🔷 **联发科游戏引擎**
+竞品技术参考-天玑游戏方案
+
+• 查看联发科游戏引擎技术
+
+🔗 https://www.mediatek.com/technologies/mobile-gaming
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **ARM Mali GPU**
+
+⚙️ **Mali GPU开发者**
+ARM Mali GPU架构文档（华为用Mali）
+
+• 查看Mali GPU技术文档
+
+🔗 https://developer.arm.com/Processors/Mali-GPU
+
+⚙️ **Mali性能优化**
+Mali GPU最佳实践指南
+
+• 查看Mali GPU技术文档
+
+🔗 https://developer.arm.com/documentation/100587/0100/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **WIPO华为专利**
+
+🌐 **国际专利检索**
+搜索: Huawei graphics GPU
+
+• WIPO国际专利数据库
+
+🔗 https://patentscope.wipo.int/search/en/search.jsf
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **USPTO美国专利局**
+
+🇺🇸 **首页**
+Huawei graphics GPU rendering
+
+• 查看USPTO美国专利局最新信息
+
+🔗 https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **中国国家知识产权局**
+
+🇨🇳 **首页**
+华为 图形 游戏 GPU
+
+• 查看中国国家知识产权局最新信息
+
+🔗 https://pss-system.cponline.cnipa.gov.cn/conventionalSearch
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **华为查思专利**
+
+🔍 **华为官方专利平台，免费无注册**
+华为官方专利平台，免费无注册
+
+• 华为官方专利平台，免费无注册
+
+🔗 https://www.chaspark.com/#/patents
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Google Patents**
+
+🔎 **首页**
+Huawei GPU graphics
+
+• 查看Google Patents最新信息
+
+🔗 https://patents.google.com/?q=Huawei&oq=Huawei+graphics
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **欧洲专利局Espacenet**
+
+🇪🇺 **首页**
+Huawei graphics GPU
+
+• 查看欧洲专利局Espacenet最新信息
+
+🔗 https://worldwide.espacenet.com/?locale=en_EP
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Khronos Group新闻**
+
+📰 **首页**
+查看详情
+
+• 查看Khronos Group新闻最新信息
+
+🔗 https://www.khronos.org/news/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Vulkan中文资讯**
+
+🇨🇳 **首页**
+查看详情
+
+• 查看Vulkan中文资讯最新信息
+
+🔗 https://vulkan.net.cn/news
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **LunarG Vulkan SDK**
+
+🛠️ **Vulkan SDK下载与工具**
+Vulkan SDK下载与工具
+
+• Vulkan SDK下载与工具
+
+🔗 https://vulkan.lunarg.com/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **WebGPU标准**
+
+🌐 **WebGPU标准规范**
+WebGPU标准规范与社区资源
+
+• 查看WebGPU最新规范与示例
+
+🔗 https://github.com/gpuweb/gpuweb
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **DirectX官方博客**
+
+🎮 **DirectX技术博客**
+微软DirectX最新技术动态
+
+• 查看DirectX最新技术动态
+
+🔗 https://devblogs.microsoft.com/directx/
+
+━━━━━━━━━━━━━━━━━━
+
+📍 **Apple Metal文档**
+
+🍎 **Metal开发者文档**
+Apple Metal图形API官方文档
+
+• 查看Metal图形API最新文档
+
+🔗 https://developer.apple.com/metal/
+
+━━━━━━━━━━━━━━━━━━
+
+⏰ 2026-03-23 09:20:48

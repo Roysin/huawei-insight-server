@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "forum_latest",
+      "source": "huawei_forum",
+      "source_name": "华为开发者论坛",
+      "name": "游戏/图形技术热帖",
+      "icon": "💬",
+      "category": "社区讨论",
+      "url": "https://developer.huawei.com/consumer/cn/forum/block/1018317060917936456",
+      "brief": "开发者论坛游戏性能相关讨论",
+      "highlights": [
+        "暂无相关热帖"
+      ],
+      "collected_at": "2026-04-06 09:27:23",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    }
+  ],
+  "last_run": "2026-04-06 09:27:23",
+  "content_hashes": {
+    "forum_latest": ""
+  }
+}

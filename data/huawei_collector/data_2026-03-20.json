@@ -1,0 +1,653 @@
+{
+  "date": "2026-03-20",
+  "collected_at": "2026-03-20 19:23:05",
+  "total": 38,
+  "items": [
+    {
+      "id": "graphics_kit",
+      "source": "huawei_official",
+      "source_name": "华为开发者联盟",
+      "name": "Graphics Accelerate Kit",
+      "icon": "🎮",
+      "category": "图形加速",
+      "url": "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/graphics-accelerate-introduction",
+      "brief": "解决游戏卡顿/掉帧/发热问题",
+      "highlights": [
+        "详细内容请查看原文档"
+      ],
+      "collected_at": "2026-03-20 19:23:00",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "xengine_kit",
+      "source": "huawei_official",
+      "source_name": "华为开发者联盟",
+      "name": "XEngine Kit",
+      "icon": "🚀",
+      "category": "GPU加速引擎",
+      "url": "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/xengine-kit-introduction",
+      "brief": "马良GPU性能提升方案",
+      "highlights": [
+        "详细内容请查看原文档"
+      ],
+      "collected_at": "2026-03-20 19:23:00",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "game_service",
+      "source": "huawei_official",
+      "source_name": "华为开发者联盟",
+      "name": "Game Service Kit",
+      "icon": "👤",
+      "category": "游戏服务",
+      "url": "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/gameservice-introduction",
+      "brief": "游戏基础能力建设",
+      "highlights": [
+        "详细内容请查看原文档"
+      ],
+      "collected_at": "2026-03-20 19:23:00",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "hismartperf",
+      "source": "huawei_official",
+      "source_name": "华为开发者联盟",
+      "name": "HiSmartPerf",
+      "icon": "🔧",
+      "category": "性能调优工具",
+      "url": "https://developer.huawei.com/consumer/cn/doc/AppGallery-connect-Guides/smartperf-tool-overview",
+      "brief": "跨平台游戏性能测试分析",
+      "highlights": [
+        "详细内容请查看原文档"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "hms_graphics",
+      "source": "hms_core",
+      "source_name": "HMS Core服务",
+      "name": "HMS Core图形引擎服务",
+      "icon": "📦",
+      "category": "HMS服务",
+      "url": "https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/scenekit-introduction-0000001050199744-V5",
+      "brief": "Scene Kit图形引擎服务开发指南",
+      "highlights": [
+        "查看更新日志了解最新版本"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "hms_game",
+      "source": "hms_core",
+      "source_name": "HMS Core服务",
+      "name": "HMS Core游戏服务",
+      "icon": "📦",
+      "category": "HMS服务",
+      "url": "https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/game-introduction-0000001050121216-V5",
+      "brief": "Game Service游戏服务开发指南",
+      "highlights": [
+        "查看更新日志了解最新版本"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "hms_cg_kit",
+      "source": "hms_core",
+      "source_name": "HMS Core服务",
+      "name": "HMS Core图形计算服务",
+      "icon": "📦",
+      "category": "HMS服务",
+      "url": "https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/cg-introduction-0000001050156138-V5",
+      "brief": "CG Kit图形计算服务开发指南",
+      "highlights": [
+        "查看更新日志了解最新版本"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "huawei_ipr_main",
+      "source": "huawei_patents",
+      "source_name": "华为专利信息",
+      "name": "华为创新与知识产权",
+      "icon": "📜",
+      "category": "专利技术",
+      "url": "https://www.huawei.com/cn/ipr",
+      "brief": "华为知识产权主页（15万件+有效授权专利）",
+      "highlights": [
+        "查看华为最新专利技术公开信息"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "huawei_ipr_license",
+      "source": "huawei_patents",
+      "source_name": "华为专利信息",
+      "name": "华为专利许可项目",
+      "icon": "📜",
+      "category": "专利技术",
+      "url": "https://www.huawei.com/cn/ipr/license/mobile-handset",
+      "brief": "手机/Wi-Fi/物联网专利许可",
+      "highlights": [
+        "查看华为最新专利技术公开信息"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "khronos_vulkan",
+      "source": "graphics_standards",
+      "source_name": "图形标准组织",
+      "name": "Vulkan标准更新",
+      "icon": "📐",
+      "category": "图形标准",
+      "url": "https://www.khronos.org/vulkan/",
+      "brief": "Vulkan图形API最新规范与扩展",
+      "highlights": [
+        "查看最新Vulkan标准更新规范更新"
+      ],
+      "collected_at": "2026-03-20 19:23:01",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "khronos_opengl",
+      "source": "graphics_standards",
+      "source_name": "图形标准组织",
+      "name": "OpenGL ES标准",
+      "icon": "📐",
+      "category": "图形标准",
+      "url": "https://www.khronos.org/opengles/",
+      "brief": "OpenGL ES移动图形标准",
+      "highlights": [
+        "查看最新OpenGL ES标准规范更新"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "opengles_extensions",
+      "source": "graphics_standards",
+      "source_name": "图形标准组织",
+      "name": "OpenGL扩展支持",
+      "icon": "📐",
+      "category": "图形标准",
+      "url": "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/opengles-extensions",
+      "brief": "华为OpenGL ES扩展支持列表",
+      "highlights": [
+        "查看最新OpenGL扩展支持规范更新"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "khronos_openxr",
+      "source": "graphics_standards",
+      "source_name": "图形标准组织",
+      "name": "OpenXR标准",
+      "icon": "📐",
+      "category": "图形标准",
+      "url": "https://www.khronos.org/openxr/",
+      "brief": "XR/VR/AR开放标准",
+      "highlights": [
+        "查看最新OpenXR标准规范更新"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "huawei_forum_latest",
+      "source": "huawei_forum",
+      "source_name": "华为开发者论坛",
+      "name": "开发者论坛热帖",
+      "icon": "💬",
+      "category": "社区讨论",
+      "url": "https://developer.huawei.com/consumer/cn/forum/block/1018317060917936456",
+      "brief": "华为开发者游戏/图形技术讨论",
+      "highlights": [
+        "查看论坛最新技术讨论"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "cloud_game_solution",
+      "source": "huawei_cloud_gaming",
+      "source_name": "华为云游戏解决方案",
+      "name": "华为云游戏服务器",
+      "icon": "☁️",
+      "category": "云游戏",
+      "url": "https://www.huaweicloud.com/solution/cloudgame/",
+      "brief": "云游戏/云渲染解决方案",
+      "highlights": [
+        "查看云游戏解决方案详情"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "cloud_game_docs",
+      "source": "huawei_cloud_gaming",
+      "source_name": "华为云游戏解决方案",
+      "name": "云游戏开发文档",
+      "icon": "☁️",
+      "category": "云游戏",
+      "url": "https://support.huaweicloud.com/usermanual-cloudgame/",
+      "brief": "云游戏接入与开发指南",
+      "highlights": [
+        "查看云游戏解决方案详情"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "huawei_opensource_latest",
+      "source": "huawei_opensource",
+      "source_name": "华为开源镜像站",
+      "name": "开源镜像站",
+      "icon": "📂",
+      "category": "开源资源",
+      "url": "https://mirrors.huaweicloud.com/",
+      "brief": "游戏引擎/图形库开源镜像",
+      "highlights": [
+        "华为开源镜像站资源更新"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "huawei_consumer_latest",
+      "source": "huawei_consumer",
+      "source_name": "华为消费者BG",
+      "name": "消费者BG新闻",
+      "icon": "📱",
+      "category": "产品动态",
+      "url": "https://consumer.huawei.com/cn/press/",
+      "brief": "华为产品游戏性能相关新闻",
+      "highlights": [
+        "查看华为消费者业务最新动态"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "harmonyos_dev_latest",
+      "source": "harmonyos_dev",
+      "source_name": "鸿蒙开发者社区",
+      "name": "鸿蒙游戏开发",
+      "icon": "🔷",
+      "category": "鸿蒙生态",
+      "url": "https://developer.harmonyos.com/cn/develop/games",
+      "brief": "HarmonyOS游戏开发官方文档",
+      "highlights": [
+        "查看鸿蒙游戏开发最新资源"
+      ],
+      "collected_at": "2026-03-20 19:23:02",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "media_tuoluo_latest",
+      "source": "media_tuoluo",
+      "source_name": "陀螺研究院",
+      "name": "行业研究报告",
+      "icon": "🌀",
+      "category": "行业分析",
+      "url": "https://www.tuoluo.cn/report",
+      "brief": "游戏行业深度分析报告",
+      "highlights": [
+        "查看游戏行业研究报告"
+      ],
+      "collected_at": "2026-03-20 19:23:03",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "unity_harmonyos",
+      "source": "unity_china",
+      "source_name": "Unity中国-华为",
+      "name": "Unity鸿蒙适配",
+      "icon": "🎮",
+      "category": "游戏引擎",
+      "url": "https://unity.cn/platform/harmonyos",
+      "brief": "Unity对HarmonyOS的官方支持",
+      "highlights": [
+        "查看Unity华为适配文档"
+      ],
+      "collected_at": "2026-03-20 19:23:03",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "unity_docs",
+      "source": "unity_china",
+      "source_name": "Unity中国-华为",
+      "name": "Unity华为优化文档",
+      "icon": "🎮",
+      "category": "游戏引擎",
+      "url": "https://docs.unity3d.com/cn/current/Manual/android-optimization.html",
+      "brief": "Unity移动端性能优化指南",
+      "highlights": [
+        "查看Unity华为适配文档"
+      ],
+      "collected_at": "2026-03-20 19:23:03",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "ue_android",
+      "source": "unreal_engine",
+      "source_name": "Unreal Engine-华为",
+      "name": "UE5安卓开发",
+      "icon": "🎬",
+      "category": "游戏引擎",
+      "url": "https://docs.unrealengine.com/5.0/zh-CN/developing-for-android-in-unreal-engine/",
+      "brief": "UE5安卓平台开发指南",
+      "highlights": [
+        "查看UE5移动端开发文档"
+      ],
+      "collected_at": "2026-03-20 19:23:03",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "ue_vulkan",
+      "source": "unreal_engine",
+      "source_name": "Unreal Engine-华为",
+      "name": "UE5 Vulkan支持",
+      "icon": "🎬",
+      "category": "游戏引擎",
+      "url": "https://docs.unrealengine.com/5.0/zh-CN/vulkan-mobile-renderer-in-unreal-engine/",
+      "brief": "UE5 Vulkan渲染器",
+      "highlights": [
+        "查看UE5移动端开发文档"
+      ],
+      "collected_at": "2026-03-20 19:23:03",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "cocos_harmonyos_latest",
+      "source": "cocos_harmonyos",
+      "source_name": "Cocos鸿蒙版",
+      "name": "Cocos鸿蒙支持",
+      "icon": "🌟",
+      "category": "游戏引擎",
+      "url": "https://docs.cocos.com/creator/manual/zh/editor/publish/publish-huawei-ohos.html",
+      "brief": "Cocos Creator发布鸿蒙应用",
+      "highlights": [
+        "查看Cocos鸿蒙发布指南"
+      ],
+      "collected_at": "2026-03-20 19:23:03",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "competitor_qualcomm_latest",
+      "source": "competitor_qualcomm",
+      "source_name": "高通Snapdragon Gaming",
+      "name": "高通游戏方案",
+      "icon": "🔺",
+      "category": "竞品参考",
+      "url": "https://www.qualcomm.com/snapdragon/mobile-gaming",
+      "brief": "竞品技术参考-高通游戏方案",
+      "highlights": [
+        "查看高通游戏技术方案"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "competitor_mediatek_latest",
+      "source": "competitor_mediatek",
+      "source_name": "联发科天玑游戏引擎",
+      "name": "联发科游戏引擎",
+      "icon": "🔷",
+      "category": "竞品参考",
+      "url": "https://www.mediatek.com/technologies/mobile-gaming",
+      "brief": "竞品技术参考-天玑游戏方案",
+      "highlights": [
+        "查看联发科游戏引擎技术"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "mali_gpu",
+      "source": "arm_mali",
+      "source_name": "ARM Mali GPU",
+      "name": "Mali GPU开发者",
+      "icon": "⚙️",
+      "category": "GPU架构",
+      "url": "https://developer.arm.com/Processors/Mali-GPU",
+      "brief": "ARM Mali GPU架构文档（华为用Mali）",
+      "highlights": [
+        "查看Mali GPU技术文档"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "mali_optimization",
+      "source": "arm_mali",
+      "source_name": "ARM Mali GPU",
+      "name": "Mali性能优化",
+      "icon": "⚙️",
+      "category": "GPU架构",
+      "url": "https://developer.arm.com/documentation/100587/0100/",
+      "brief": "Mali GPU最佳实践指南",
+      "highlights": [
+        "查看Mali GPU技术文档"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "wipo_patents_latest",
+      "source": "wipo_patents",
+      "source_name": "WIPO华为专利",
+      "name": "国际专利检索",
+      "icon": "🌐",
+      "category": "专利文献",
+      "url": "https://patentscope.wipo.int/search/en/search.jsf",
+      "brief": "搜索: Huawei graphics GPU",
+      "highlights": [
+        "WIPO国际专利数据库"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": false,
+      "is_updated": false
+    },
+    {
+      "id": "uspto_patents_latest",
+      "source": "uspto_patents",
+      "source_name": "USPTO美国专利局",
+      "name": "首页",
+      "icon": "🇺🇸",
+      "category": "专利检索",
+      "url": "https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html",
+      "brief": "Huawei graphics GPU rendering",
+      "highlights": [
+        "查看USPTO美国专利局最新信息"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "cnipa_patents_latest",
+      "source": "cnipa_patents",
+      "source_name": "中国国家知识产权局",
+      "name": "首页",
+      "icon": "🇨🇳",
+      "category": "专利检索",
+      "url": "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch",
+      "brief": "华为 图形 游戏 GPU",
+      "highlights": [
+        "查看中国国家知识产权局最新信息"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "huawei_chaspark_latest",
+      "source": "huawei_chaspark",
+      "source_name": "华为查思专利",
+      "name": "华为官方专利平台，免费无注册",
+      "icon": "🔍",
+      "category": "图形标准",
+      "url": "https://www.chaspark.com/#/patents",
+      "brief": "华为官方专利平台，免费无注册",
+      "highlights": [
+        "华为官方专利平台，免费无注册"
+      ],
+      "collected_at": "2026-03-20 19:23:04",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "google_patents_latest",
+      "source": "google_patents",
+      "source_name": "Google Patents",
+      "name": "首页",
+      "icon": "🔎",
+      "category": "专利检索",
+      "url": "https://patents.google.com/?q=Huawei&oq=Huawei+graphics",
+      "brief": "Huawei GPU graphics",
+      "highlights": [
+        "查看Google Patents最新信息"
+      ],
+      "collected_at": "2026-03-20 19:23:05",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "epo_patents_latest",
+      "source": "epo_patents",
+      "source_name": "欧洲专利局Espacenet",
+      "name": "首页",
+      "icon": "🇪🇺",
+      "category": "专利检索",
+      "url": "https://worldwide.espacenet.com/?locale=en_EP",
+      "brief": "Huawei graphics GPU",
+      "highlights": [
+        "查看欧洲专利局Espacenet最新信息"
+      ],
+      "collected_at": "2026-03-20 19:23:05",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "khronos_news_latest",
+      "source": "khronos_news",
+      "source_name": "Khronos Group新闻",
+      "name": "首页",
+      "icon": "📰",
+      "category": "图形标准",
+      "url": "https://www.khronos.org/news/",
+      "brief": "查看详情",
+      "highlights": [
+        "查看Khronos Group新闻最新信息"
+      ],
+      "collected_at": "2026-03-20 19:23:05",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "vulkan_cn_latest",
+      "source": "vulkan_cn",
+      "source_name": "Vulkan中文资讯",
+      "name": "首页",
+      "icon": "🇨🇳",
+      "category": "图形标准",
+      "url": "https://vulkan.net.cn/news",
+      "brief": "查看详情",
+      "highlights": [
+        "查看Vulkan中文资讯最新信息"
+      ],
+      "collected_at": "2026-03-20 19:23:05",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    },
+    {
+      "id": "lunarg_sdk_latest",
+      "source": "lunarg_sdk",
+      "source_name": "LunarG Vulkan SDK",
+      "name": "Vulkan SDK下载与工具",
+      "icon": "🛠️",
+      "category": "图形标准",
+      "url": "https://vulkan.lunarg.com/",
+      "brief": "Vulkan SDK下载与工具",
+      "highlights": [
+        "Vulkan SDK下载与工具"
+      ],
+      "collected_at": "2026-03-20 19:23:05",
+      "content_hash": "",
+      "is_new": true,
+      "is_updated": false
+    }
+  ]
+}
